@@ -1,4 +1,5 @@
-![Icon](Smart Alarm.app/Contents/Resources/icon.png)
+![Icon](Smart%20Alarm.app/Contents/Resources/icon.png)
+
 Smart Alarm
 -------
 This is a pretty primitive AppleScript-based alarm clock application for macOS. I can't find a sensible way to use AppleScript to bypass the lock screen login, so locking while away will need to be disabled in System Preferences.
